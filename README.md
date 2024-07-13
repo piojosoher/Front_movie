@@ -1,7 +1,7 @@
 **GRUPO 16**:  Codo a Codo Fullstack PHP 24143 
 --------------------------------------
 
-***NEW Sitio Backend:*** _https://github.com/josepquego/grupo16_front/tree/josepquego-api_completa_ <br>
+***Sitio Backend:*** _https://github.com/josepquego/grupo16_front/tree/josepquego-api_completa_ <br>
 ***Sitio Frontend:*** _https://github.com/josepquego/grupo16_front_
 
 
